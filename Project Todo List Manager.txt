@@ -1,0 +1,26 @@
+Project: Todo List Manager
+
+Explanation:
+
+This project will be a console-based application where users can interact with their to-do list. Let's break down the main functionalities:
+
+Add Task: Users can add a new task to their to-do list.
+
+View Tasks: Users can view their current list of tasks along with their completion status.
+
+Mark Task as Complete: Users can mark a task as complete.
+
+
+
+
+Explanation of Code:
+
+We define a Task struct to represent individual tasks with a description and completion status.
+The TodoList class encapsulates the task management functionalities.
+In the main function, a loop presents a menu for the user to choose actions.
+Depending on the user's choice, the appropriate methods of the TodoList class are called.
+This project provides a simple example of object-oriented programming in C++, handling user input, and managing data using classes and vectors. It's a basic starting point that you can expand upon with additional features like saving tasks to a file or setting due dates for tasks.
+
+
+
+
